@@ -18,9 +18,22 @@ Point d'attribut par lvl : 3 pts
 
 Calcul de Degat de Force :
 
-Force * degats de l'arme = dégats brutes * nbr de point de force.
+Degat Brut= degat de l'arme * nbr de point de force.
 
 Vitalité : 10 pv de base et 5pv par point d'attribut.
+
+Calcul de defense : 
+Tete : 1 Armure
+Plastron : 2 Armure
+Jambiere : 1 Armure
+
+
+Armure : t + P + J 
+
+Degats Totaux  = Degat Brut - Armure
+
+Chance de touche = 75%
+
 
 
 
