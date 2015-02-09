@@ -18,7 +18,14 @@ Point d'attribut par lvl : 3 pts
 
 Calcul de Degat de Force :
 
-Force * degats de l'arme = dégats brutes
+Force * degats de l'arme = dégats brutes * nbr de point de force.
+
+Vitalité : 10 pv de base et 5pv par point d'attribut.
+
+
+
+
+
 
 
 
