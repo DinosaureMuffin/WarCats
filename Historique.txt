@@ -1,2 +1,18 @@
 Projet  WarCats
 Jeux RPG type Navigateur
+
+
+Système de PvP par niveau
+
+
+STATISTIQUES: 
+Vitalité : Augmente le nombre de pv.
+Force : augmente les dégâts infligés et réduit les subis.
+Agilité :augmente l'esquive et le taux de critique (+ chance de toucher).
+
+
+CHOSES PRIORITAIRES :
+Création de comptes, Évolution de l’équipement, des styles des persos, système de stats. 
+
+SI ON PEUT :
+Bouffe, objets, capacités, Mode aventure, système de classement, phase de tutoriaux, Modèle freemium, Coder pour l’occulus rift, Reproduire Sword art online, tchat,
