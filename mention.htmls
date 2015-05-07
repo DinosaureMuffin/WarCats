@@ -1,0 +1,61 @@
+<!Doctype html>
+<html lang="fr-FR">
+<head>
+	<title>WARCATS</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/styles.css" type="text/css" media="all">
+	<link rel="stylesheet" href="font/stylesheet.css" type="text/css" media="all">
+	<link rel="icon" type="image/png" href="img/faviconWarcats.ico" />
+</head>
+<body>
+	<div class= "container">
+	<section id= "mention">
+		<header>
+			<h1><a href="#">WARCATS</a></h1>
+			<h2>1<span>er</span> jeu en ligne de combat de chats</h2>
+			<ul id="menu-accordeon">
+         		<li><a href="#">MENU</a>
+	              	<ul>
+	                	<li><a href="index.php">Accueil</a></li>
+	                	<li><a href="profil.php">Profil</a></li>
+	                	<li><a href="#">Shop</a></li>
+	                	<li><a href="classement.php">Classement</a></li>
+	                	<li><a href="deconnexion.php">Déconnexion</a></li>
+	            	</ul>
+           		</li>
+      		</ul>
+		</header>
+		
+		<div class="content">
+				<div class = "logo"><a href="#"><img src="img/logo2.png"></a></div>
+				<h4>Déjà <span>100</span> chats-battants ! </h4>
+		</div> <!-- Fin DIV content -->
+
+		<!-- mension -->
+		<div class="mention">
+			<h5>Mentions légales</h5>
+			<p>Le site WARCATS est une publication de la société ACNTD.<br/ ></p>
+
+			<p>ACNTD est une PME au capital de 10€ inscrite au RCS de PARIS sous le numéro 000.000.000 TVA intracommunautaire FR000000000.<br/ ></p>
+
+			<p><span>Siège social</span>: 27 Bis Rue du Progrès, 93100 Montreuil- France (+331 41 72 77 71/ warcats.contact@gmail.com).<br/ ></p>
+
+			<p><span>Directeur de la publication:</span> Monsieur Damien MOULIN, directeur Général de la société WARCATS.<br/ >La société WARCATS est soumise au droit français.<br/ ></p>
+
+			<p><span>Hébergeur :</span> Hetic l’école de l’internet 27 Bis Rue du Progrès, 93100 Montreuil- France (+3314172 77 71 -numéro gratuit depuis les téléphones fix) - www.WARCATS.com</p>
+		</div>
+		
+		<footer>
+			<div class= "footer">
+				<ul>
+					<li>Aucun chat n'a été maltraité ! </li>
+					<li><a href="contact.html">Contact</a></li>
+					<li><a href="mention.html">Mentions légales</a></li>
+				</ul>
+			</div> <!-- Fin DIV footer -->
+		</footer>
+	</section>
+	</div> <!-- Fin DIV container -->
+
+</body>
+</html>
